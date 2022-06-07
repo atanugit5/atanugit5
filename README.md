@@ -1,6 +1,7 @@
 
  <h1 align="center">Hi 👋, I'm Atanu Mondal</h1>
 <h3 align="center">A passionate MERN-stack developer from India</h3>
+<img src="/assets/githubreadme.jpg" alt="banner that says Shivam Pandey - software engineer and community organizer alongside a cartoon illustration of Shivam Pandey">
 <img height="500px" src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atanugit5&label=Profile%20views&color=0e75b6&style=flat" alt="atanugit5" /> </p>
