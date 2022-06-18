@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Reactjs, Reduxjs**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-atanu-mondal.netlify.app/](https://portfolio-atanu-mondal.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://atanu-mondal-portfolio.netlify.app/](https://atanu-mondal-portfolio.netlify.app/)
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, Reactjs and Reduxjs**
 
