@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **atanu.mondal.me48@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ADSOEgeWEjDhes8al_azlevy8hHlpAYa/edit?usp=sharing&ouid=105491915359041572171&rtpof=true&sd=true](https://docs.google.com/document/d/1ADSOEgeWEjDhes8al_azlevy8hHlpAYa/edit?usp=sharing&ouid=105491915359041572171&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mDWeVR4GLZWztQ-Wcc_XWVTQa9kr0uqY/view?usp=sharing](https://drive.google.com/file/d/1mDWeVR4GLZWztQ-Wcc_XWVTQa9kr0uqY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
