@@ -46,14 +46,12 @@
      <img alt="GitHub Pages" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 &emsp; 
     <img alt="chakra" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=black">
-
      &emsp;
     <img alt="mui" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
-  &emsp;
 </p>
 
 
-### 👉 Backend Development & Databases
+### 👉 Backend Development & Database
 
 
 <p align="left"> 
