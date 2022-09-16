@@ -43,7 +43,9 @@
   &emsp;
     <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
    &emsp;
-     <img alt="GitHub Pages" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+ &emsp;
+     <img alt="Redux" src="https://img.shields.io/badge/redux-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 &emsp; 
     <img alt="chakra" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=black">
      &emsp;
