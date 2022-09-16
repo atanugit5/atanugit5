@@ -1,7 +1,7 @@
 
  <h1 align="center">Hi 👋, I'm Atanu Mondal</h1>
 <h3 align="center">A passionate MERN-stack developer from India</h3>
-<img height="500px" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
+<img align="center" height="500px" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=atanugit5&label=Profile%20views&color=0e75b6&style=flat" alt="atanugit5" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atanugit5" alt="atanugit5" /></a> </p>
