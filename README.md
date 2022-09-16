@@ -3,8 +3,8 @@
 <h3 align="center">A passionate MERN-stack developer from India</h3>
 <img height="500px" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atanugit5&label=Profile%20views&color=0e75b6&style=flat" alt="atanugit5" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atanugit5" alt="atanugit5" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=atanugit5&label=Profile%20views&color=0e75b6&style=flat" alt="atanugit5" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atanugit5" alt="atanugit5" /></a> </p>
 
 <p> I am a avid logic seeker with keen interest on building websites in the most simplified way.MERN stack is something I love very much and I appreciate its power💪🏿 I look forward to learn the best technologies to help me accomplish my goal of writing code that is not only understood by computers but is easier for us human beings to understand.</p>
 
